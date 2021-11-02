@@ -1,0 +1,34 @@
+total 164
+drwxr-xr-x 2 root root  4096 Jun 15 12:46 .
+drwxr-xr-x 7 root root   160 Jun 15 11:03 ..
+-rwxr-xr-x 1 root root    33 Jun 15 10:29 0-hello_world
+-rwxr-xr-x 1 root root    27 Jun 14 23:19 10-no_more_js
+-rwxr-xr-x 1 root root    27 Jun 15 08:31 11-directories
+-rw-r--r-- 1 root root 12288 Jun 15 08:18 .11-directories.swo
+-rw-r--r-- 1 root root 12288 Jun 14 23:26 .11-directories.swp
+-rwxr-xr-x 1 root root    30 Jun 15 09:52 12-newest_files
+-rw-r--r-- 1 root root 12288 Jun 15 08:36 .12-newest_files.swp
+-rwxr-xr-x 1 root root    31 Jun 15 09:57 13-unique
+-rwxr-xr-x 1 root root    37 Jun 15 10:22 14-findthatword
+-rwxr-xr-x 1 root root    44 Jun 15 00:48 15-countthatword
+-rwxr-xr-x 1 root root    44 Jun 15 00:48 16-whatsnext
+-rwxr-xr-x 1 root root    44 Jun 15 00:49 17-hidethisword
+-rwxr-xr-x 1 root root    44 Jun 15 08:11 18-letteronly
+-rwxr-xr-x 1 root root    44 Jun 15 08:11 19-AZ
+-rwxr-xr-x 1 root root    24 Jun 15 10:37 1-confused_smiley
+-rwxr-xr-x 1 root root    44 Jun 15 08:12 20-hiago
+-rwxr-xr-x 1 root root    44 Jun 15 08:12 21-reverse
+-rwxr-xr-x 1 root root    44 Jun 15 08:14 22-users_and_homes
+-rwxr-xr-x 1 root root    29 Jun 15 10:46 2-hellofile
+-rwxr-xr-x 1 root root    39 Jun 15 10:44 3-twofiles
+-rw-r--r-- 1 root root 12288 Jun 14 20:41 .3-twofiles.swp
+-rwxr-xr-x 1 root root    39 Jun 15 10:59 4-lastlines
+-rwxr-xr-x 1 root root    39 Jun 15 12:23 5-firstlines
+-rwxr-xr-x 1 root root    44 Jun 15 12:31 6-third_line
+-rwxr-xr-x 1 root root    87 Jun 15 12:38 7-file
+-rwxr-xr-x 1 root root    39 Jun 15 12:46 8-cwd_state
+-rwxr-xr-x 1 root root    37 Jun 14 23:08 9-duplicate_last_line
+-rw-r--r-- 1 root root 12288 Jun 14 22:27 .9-duplicate_last_line.swp
+-rw-r--r-- 1 root root    17 Jun 15 12:38 \\\'"Holberton School"\'\\$\?\\\\\*:)
+-rw-r--r-- 1 root root     0 Jun 15 12:46 ls_cwd_content
+-rw-r--r-- 1 root root    11 Jun 14 20:19 README.md
